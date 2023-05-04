@@ -1,0 +1,12 @@
+
+b
+java:S2095R"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ù»ı
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ãÈˆ¦
+b
+java:S2095A"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ù»ı
+Q	java:S125"<This block of commented-out lines of code should be removed.(Èú’’
+Z
+java:S2147""DCombine this catch with the one at line 32, which has the same body.(ï­£Ä
+Q	java:S125<"<This block of commented-out lines of code should be removed.(Èú’’
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(Ñ£±Ôúÿÿÿÿ

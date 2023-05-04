@@ -1,0 +1,12 @@
+# Created at 2023-04-17T19:56:56.326
+Apr 17, 2023 7:56:56 PM org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2023-04-17T19:56:56.326
+WARNING: Possible configuration error: method [void pizzashop.service.PizzaServiceTest.addPayment_5_ecp() throws java.lang.Exception] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor, org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
+# Created at 2023-04-17T19:56:56.342
+Apr 17, 2023 7:56:56 PM org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2023-04-17T19:56:56.342
+WARNING: Possible configuration error: method [void pizzashop.service.PizzaServiceTest.addPayment_5_ecp() throws java.lang.Exception] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor, org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
